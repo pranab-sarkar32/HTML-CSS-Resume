@@ -1,1 +1,26 @@
 /* Your CSS styles go here */
+html {
+  background: url(sky.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h5 { 
+	font: italic normal 1.4em georgia, sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+	color: #003300;
+	}
+h4 { 
+	font: italic normal bold 1.2em georgia, sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+	color: #e60000;
+	}
+{
+  font-size: 18px;
+}
+p.main {
+  color: purple;
+}
